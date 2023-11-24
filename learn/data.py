@@ -1,10 +1,5 @@
 '''
 Description: 
-
-Author: Tianyi Fei
-Date: 1969-12-31 19:00:00
-LastEditors: Tianyi Fei
-LastEditTime: 2022-04-20 17:08:48
 '''
 import torch
 from torch.utils.data import Dataset
