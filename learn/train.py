@@ -1,10 +1,5 @@
 '''
 Description: 
-
-Author: Tianyi Fei
-Date: 2022-04-14 18:00:30
-LastEditors: Tianyi Fei
-LastEditTime: 2022-05-02 20:48:55
 '''
 '''
 Description: 

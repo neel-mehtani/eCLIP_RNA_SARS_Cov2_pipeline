@@ -1,10 +1,5 @@
 '''
 Description: 
-
-Author: Tianyi Fei
-Date: 1969-12-31 19:00:00
-LastEditors: Tianyi Fei
-LastEditTime: 2022-05-02 20:49:37
 '''
 import torch
 import pandas as pd
